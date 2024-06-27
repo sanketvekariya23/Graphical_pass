@@ -93,7 +93,7 @@ function sendMail2(){
 
 function NewTab() {
     window.open(
-      "#", "_blank");
+      "https://www.linkedin.com/in/sanket-vekariya-00b85a23a/?profileId=ACoAADuSGIsBpLICDrzkk1wcbSwNACb60hD-Svo", "_blank");
 }
 
 // function googleSignin(sign){
